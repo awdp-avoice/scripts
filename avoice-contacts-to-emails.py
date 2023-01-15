@@ -6,7 +6,7 @@ Instructions:
 1. Export from Lark admin console “组织架构” “成员与部门” “批量导入或导出成员” “导出并修改成员信息”
 2. Open exported file with Microsoft Excel, and save as "avoice-contacts.xlsx"
 3. Run this script
-4. Upload the output xlsx file back to admin console
+4. Upload the output xlsx file "avoice-contacts2.xlsx" back to admin console
 """
 
 import pandas as pd
